@@ -6,3 +6,6 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 
 **Day 2** - [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) <br>
 *concept* - String Comparision
+
+**Day 3** - [Ransom Note](https://leetcode.com/problems/ransom-note/) <br>
+*concept* - String Manipulation
