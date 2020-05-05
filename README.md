@@ -8,3 +8,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 2   | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)                   | String Comparision         |     Easy   |
 | 3   | [Ransom Note](https://leetcode.com/problems/ransom-note/)                               | String Manipulation        |     Easy   |
 | 4   | [Number Complement](https://leetcode.com/problems/number-complement/)                   | Bit Wise Operators         |   Medium   |
+| 5   | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | String     |   Easy    |
