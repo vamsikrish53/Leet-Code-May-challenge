@@ -13,4 +13,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 7   | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/)         | Binary Tree                 |   Medium  |
 | 8   | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/)| Math                 |   Easy    |
 | 9   | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)              |  Binary Search             |   Easy    |
-
+| 10  | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/)                | Counting                   |   Easy    |
