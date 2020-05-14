@@ -17,3 +17,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 11  | [Flood Fill](https://leetcode.com/problems/flood-fill/)                                  | Recursion                  |   Easy    |
 | 12  | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | Loop            |   Easy    |
 | 13  | [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)                         | Loop                      |   Medium  |
+| 14  | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | Trie                      |   Medium  |
