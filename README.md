@@ -22,3 +22,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 16  | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)                | Linked List - TWO Pointer|   Medium  |
 | 17  | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| Anagram                |   Medium  |
 | 18  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)| Sliding Windows                |   Medium  |
+| 19  | [Online Stock Span](https://leetcode.com/problems/online-stock-span/solution/)| Stack                |   Medium  |
