@@ -24,3 +24,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 18  | [Permutation in String](https://leetcode.com/problems/permutation-in-string/)| Sliding Windows                |   Medium  |
 | 19  | [Online Stock Span](https://leetcode.com/problems/online-stock-span/solution/)| Stack                |   Medium  |
 | 20  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)| Tree       |   Medium  |
+| 21  | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)| DP |   Hard  |
