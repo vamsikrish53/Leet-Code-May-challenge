@@ -26,4 +26,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 20  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/solution/)| Tree       |   Medium  |
 | 21  | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones/)| DP |   Hard  |
 | 22  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| Priority Queue |   Medium  |
-
+| 23  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)| Array |   Medium  |
