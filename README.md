@@ -28,4 +28,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 22  | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)| Priority Queue |   Medium  |
 | 23  | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)| Array |   Medium  |
 | 24  | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| BST |   Medium  |
-
+| 25  | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)| DP |   Medium  |
