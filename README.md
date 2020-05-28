@@ -31,3 +31,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 25  | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/)| DP |   Medium  |
 | 26  | [Contiguous Array](https://leetcode.com/problems/contiguous-array/)| Hash Map |   Medium  |
 | 27  | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)| Graph |   Medium  |
+| 28  | [Counting Bits](https://leetcode.com/problems/counting-bits/)| Bit |   Medium  |
