@@ -33,3 +33,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 27  | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/)| Graph |   Medium  |
 | 28  | [Counting Bits](https://leetcode.com/problems/counting-bits/)| Bit |   Medium  |
 | 29  | [Course Schedule](https://leetcode.com/problems/course-schedule/)| Graph |   Medium  |
+| 30  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| Array |   Medium  |
