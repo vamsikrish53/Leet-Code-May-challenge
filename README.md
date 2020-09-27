@@ -34,4 +34,4 @@ Solutions of the problems that I solved in LeetCode during [May LeetCoding Chall
 | 28  | [Counting Bits](https://leetcode.com/problems/counting-bits/)| Bit |   Medium  |
 | 29  | [Course Schedule](https://leetcode.com/problems/course-schedule/)| Graph |   Medium  |
 | 30  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)| Array |   Medium  |
-| 31  | [Edit Distance](https://leetcode.com/problems/edit-distance/)| DP |   Hard  |
+| 31  | [Edit Distance](https://leetcode.com/problems/edit-distance/)| DP |   Hard   |
